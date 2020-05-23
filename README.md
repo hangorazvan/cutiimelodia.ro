@@ -1,8 +1,6 @@
 # cutiimelodia.ro
 SC Melodia Impex SRL - ambalaje din carton
 
-SC Melodia Impex SRL - ambalaje din carton
-
 Firma noastra este producatoare de cutii, ambalaje din carton si accesorii pentru ambalaje. Proiectam si producem ambalaje si accesorii din urmatoarele tipuri de carton:
 
 • carton ondulat tip 3 (natur sau alb)
