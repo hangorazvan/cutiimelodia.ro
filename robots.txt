@@ -1,0 +1,5 @@
+# robots.txt file for http://www.cutiimelodia.ro
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://www.cutiimelodia.ro/sitemap.xml

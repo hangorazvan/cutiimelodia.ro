@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://cutiimelodia.ro/</title>
+  <link>http://cutiimelodia.ro/</link>
+
+<item>
+     <link>http://cutiimelodia.ro/</link>
+     <title>Ambalaje si cutii din carton SC Melodia Impex SRL</title>
+     <description>SC Melodia Impex SRL</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://cutiimelodia.ro/form.html</link>
+     <title>Ambalaje si cutii din carton SC Melodia Impex SRL</title>
+     <description>SC Melodia Impex SRL</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
